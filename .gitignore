@@ -1,0 +1,22 @@
+# ✅ Virtual environment (keep local)
+.venv/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# ✅ Python cache and temp files
+__pycache__/
+*.pyc
+*.zip
+temp_*
+
+# ✅ Local data and build files
+uploads/
+audio/
+ffmpeg-8.0-essentials_build/
+
+# ✅ IDE / Editor files
+.idea/
+.vscode/

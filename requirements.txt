@@ -1,0 +1,10 @@
+Flask==3.0.3
+Flask-Cors==4.0.0
+SpeechRecognition==3.10.0
+pydub==0.25.1
+deep-translator==1.11.4
+langdetect==1.0.9
+ffmpeg-python==0.2.0
+gTTS==2.5.3
+openai-whisper
+gunicorn==21.2.0
