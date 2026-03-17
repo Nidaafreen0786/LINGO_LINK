@@ -15,7 +15,7 @@ temp_*
 # ✅ Local data and build files
 uploads/
 audio/
-ffmpeg-8.0-essentials_build/
+ffmpeg-8.0.1-essentials_build/
 
 # ✅ IDE / Editor files
 .idea/
