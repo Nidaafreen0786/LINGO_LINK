@@ -25,8 +25,8 @@ Server: Gunicorn
 Deployment: Hugging Face Spaces / Render
 ## Installation and Local Setup
 1. Clone the repository  
-   git clone https://github.com/ziakhursheed/LingoLink-backend.git  
-   cd LingoLink-backend/backend  
+   git clone https://github.com/Nidaafreen0786/LINGO_LINK.git  
+   cd LINGOLINK  
 2. Create and activate a virtual environment  
    python -m venv .venv  
    .venv\Scripts\activate      # Windows  
@@ -58,4 +58,4 @@ The `extension/` directory contains the Chrome Extension frontend files that int
 ## Author
 **Nida Afreen**  
 Focused on AI-driven communication systems and natural language technologies.  
-GitHub:
+GitHub: [https://github.com/Nidaafreen0786](https://github.com/Nidaafreen0786/LINGO_LINK.git)
